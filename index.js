@@ -12,3 +12,7 @@ const logDriversByHometown = function(drivers, location){
     }
   });
 };
+
+const driversByRevenue = function(drivers){
+  
+}
