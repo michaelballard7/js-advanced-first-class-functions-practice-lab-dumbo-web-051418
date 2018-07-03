@@ -9,6 +9,6 @@ const logDriversByHomtown = function(drivers, location){
   drivers.forEach(function(driver){
     if (driver.hometown === location){
     console.log( driver.hometwon)
-    }
-  })
-}
+    };
+  });
+};
